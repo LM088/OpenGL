@@ -49,7 +49,7 @@ int main()
 	// Create Window Object. Here, the GLFWwindow pointer type is actually an opaque struct. 
 	GLFWwindow* window = glfwCreateWindow(800, 800, "OpenGL-proj", NULL, NULL);
 	if (window == NULL) {
-		std::cout << "Failed to create GLFW window" << "/n";
+		std::cout << "Failed to create GLFW window" << "\n";
 		glfwTerminate();
 		return -1;
 	}
