@@ -1,0 +1,3 @@
+/home/lakshmi/repos/OpenGL/builds/CMakeFiles/triangle.dir
+/home/lakshmi/repos/OpenGL/builds/CMakeFiles/edit_cache.dir
+/home/lakshmi/repos/OpenGL/builds/CMakeFiles/rebuild_cache.dir
