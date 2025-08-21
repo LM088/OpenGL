@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/helloTriangle.dir/main.cpp.o CMakeFiles/helloTriangle.dir/glad.c.o -o helloTriangle  -lglfw 

@@ -1,0 +1,3 @@
+/home/lakshmi/repos/OpenGL/Demo/CMake-demo/builds/CMakeFiles/helloTriangle.dir
+/home/lakshmi/repos/OpenGL/Demo/CMake-demo/builds/CMakeFiles/edit_cache.dir
+/home/lakshmi/repos/OpenGL/Demo/CMake-demo/builds/CMakeFiles/rebuild_cache.dir
