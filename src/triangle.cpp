@@ -3,7 +3,7 @@
  files that require OpenGL (like GLFW).  */ 
 
 #include<iostream>
-#include"../include/glad.h"
+#include<glad.h>
 #include<GLFW/glfw3.h>
 
  // Vertex Shader source code
